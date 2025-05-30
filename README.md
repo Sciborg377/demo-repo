@@ -9,8 +9,5 @@ Watch tutorial on Youtube
 ## Local Development
 
 1. Open HTML in your browser
-<<<<<<< HEAD
-=======
 
 
->>>>>>> new-branch
