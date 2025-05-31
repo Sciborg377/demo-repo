@@ -10,4 +10,4 @@ Watch tutorial on Youtube
 
 1. Open HTML in your browser
 
-
+2. Make changes, commit and push
